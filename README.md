@@ -1,9 +1,9 @@
 ### Hi there 👋
 ##### Developer who want to help many people KDudoo 💬
 ##### 많은 사람들에게 도움이 되고싶은 개발자 KDudoo 입니다.
-###### Main Languges : PHP, JAVA
-###### 관심 언어 : nodeJS, GO
-###### 프레임워크 : Laravel, Express
+###### Main Languges : PHP
+###### 관심 언어 : Kotlin
+###### 프레임워크 : Laravel
 <!--
 **KDudoo/KDudoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
