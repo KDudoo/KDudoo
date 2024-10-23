@@ -4,6 +4,8 @@
 ###### Main Languges : PHP
 ###### 관심 언어 : Kotlin
 ###### 프레임워크 : Laravel
+
+###### Android Kotlin App 팔레트-일기,다이어리 (개발중)
 <!--
 **KDudoo/KDudoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
